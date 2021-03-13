@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Pacifico', cursive;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.out{
+    width: 60%;
+    margin: 15px auto;
+}
+
+.out video{
+    width: 100%;
+}
